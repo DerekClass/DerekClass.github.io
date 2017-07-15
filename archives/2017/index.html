@@ -429,11 +429,11 @@
         var titleTime;
         document.addEventListener("visibilitychange", function() {
             if (document.hidden) {
-                document.title = "(つェ⊂) Derek_World " + originTitle;
+                document.title = "(つェ⊂) " + originTitle;
                 clearTimeout(titleTime);
             }
             else {
-                document.title = "(*´∇｀*) Derek_World " + originTitle;
+                document.title = "(*´∇｀*) " + originTitle;
                 titleTime = setTimeout(function() {
                     document.title = originTitle;
                 }, 2000);
