@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://derekclass.github.io/2017/07/14/hello-world/</loc>
+    
+    <lastmod>2017-07-16T07:12:51.563Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://derekclass.github.io/2017/07/16/new/</loc>
     
-    <lastmod>2017-07-16T07:10:08.872Z</lastmod>
+    <lastmod>2017-07-16T07:12:24.513Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://derekclass.github.io/about/index.html</loc>
     
     <lastmod>2017-07-15T08:38:34.137Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://derekclass.github.io/2017/07/14/hello-world/</loc>
-    
-    <lastmod>2017-07-14T07:14:25.579Z</lastmod>
     
   </url>
   
