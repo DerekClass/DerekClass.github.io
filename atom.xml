@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://derekclass.github.io/"/>
-  <updated>2017-07-16T08:38:16.407Z</updated>
+  <updated>2017-07-16T07:12:51.563Z</updated>
   <id>https://derekclass.github.io/</id>
   
   <author>
@@ -14,25 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Derek的第一篇博客</title>
-    <link href="https://derekclass.github.io/2017/07/16/new/"/>
-    <id>https://derekclass.github.io/2017/07/16/new/</id>
-    <published>2017-07-16T06:52:35.807Z</published>
-    <updated>2017-07-16T08:38:16.407Z</updated>
-    
-    <content type="html"><![CDATA[<p>这篇博客的内容主要记录这次写博客的开始!<br><a id="more"></a></p>
-<h2 id="你好"><a href="#你好" class="headerlink" title="你好"></a>你好</h2><p>这篇博客搭的真不容易</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这篇博客的内容主要记录这次写博客的开始!&lt;br&gt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
