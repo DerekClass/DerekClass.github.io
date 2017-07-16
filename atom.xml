@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://derekclass.github.io/"/>
-  <updated>2017-07-16T07:03:41.312Z</updated>
+  <updated>2017-07-16T07:10:08.872Z</updated>
   <id>https://derekclass.github.io/</id>
   
   <author>
@@ -16,17 +16,18 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
+    <title>Derek的第一篇博客</title>
     <link href="https://derekclass.github.io/2017/07/16/new/"/>
     <id>https://derekclass.github.io/2017/07/16/new/</id>
     <published>2017-07-16T06:52:35.807Z</published>
-    <updated>2017-07-16T07:03:41.312Z</updated>
+    <updated>2017-07-16T07:10:08.872Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>&lt;这是Derek自己搭建的技术博客，其中都是他自己的成长经历，希望在接下来的一个多月了好好努力，找到自己想要的工作，杜鹏，加油！&gt;<br>hexo </p>]]></content>
+    <content type="html"><![CDATA[<p>这篇博客的内容主要记录这次写博客的开始!<br>+<a id="more"></a></p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>这篇博客搭的真不容易</p>]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;&amp;lt;这是Derek自己搭建的技术博客，其中都是他自己的成长经历，
+      &lt;p&gt;这篇博客的内容主要记录这次写博客的开始!&lt;br&gt;+
     
     </summary>
     
