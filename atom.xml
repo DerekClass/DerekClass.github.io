@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://derekclass.github.io/"/>
-  <updated>2017-07-15T02:52:47.957Z</updated>
+  <updated>2017-07-14T07:14:25.579Z</updated>
   <id>https://derekclass.github.io/</id>
   
   <author>
@@ -14,24 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>这是第一条博客</title>
-    <link href="https://derekclass.github.io/2017/07/14/new/"/>
-    <id>https://derekclass.github.io/2017/07/14/new/</id>
-    <published>2017-07-14T14:15:12.015Z</published>
-    <updated>2017-07-15T02:52:47.957Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="哈哈哈哈哈哈"><a href="#哈哈哈哈哈哈" class="headerlink" title="哈哈哈哈哈哈"></a>哈哈哈哈哈哈</h2><p>### </p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;哈哈哈哈哈哈&quot;&gt;&lt;a href=&quot;#哈哈哈哈哈哈&quot; class=&quot;headerlink&quot; title=&quot;哈哈哈哈哈哈&quot;&gt;&lt;/a&gt;哈哈哈哈哈哈&lt;/h2&gt;&lt;p&gt;### &lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
