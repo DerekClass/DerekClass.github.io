@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://derekclass.github.io/about/index.html</loc>
+    
+    <lastmod>2017-07-16T08:24:49.799Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://derekclass.github.io/2017/07/14/hello-world/</loc>
     
     <lastmod>2017-07-16T07:12:51.563Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>https://derekclass.github.io/tags/index.html</loc>
     
     <lastmod>2017-07-15T08:38:47.446Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://derekclass.github.io/about/index.html</loc>
-    
-    <lastmod>2017-07-15T08:38:34.137Z</lastmod>
     
   </url>
   
